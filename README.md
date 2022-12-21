@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arruabe
 -  I’m interested in learn, practice and create
--  I’m currently learning javascript
+-  I’m currently learning javascript, html and CSS
 
 
 <!---
